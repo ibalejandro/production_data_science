@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        titanic_analysis=titanic.command_line:titanic_analysis
+    
